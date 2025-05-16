@@ -2310,6 +2310,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7036829510175086706, guid: 3cad592ea5b935c4d835c1d65a90fdce, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.32
+      objectReference: {fileID: 0}
     - target: {fileID: 7036829510461421242, guid: 3cad592ea5b935c4d835c1d65a90fdce, type: 3}
       propertyPath: m_Name
       value: Egg
@@ -2324,7 +2328,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7036829510461421246, guid: 3cad592ea5b935c4d835c1d65a90fdce, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.4
+      value: 10.82
       objectReference: {fileID: 0}
     - target: {fileID: 7036829510461421246, guid: 3cad592ea5b935c4d835c1d65a90fdce, type: 3}
       propertyPath: m_LocalPosition.z
